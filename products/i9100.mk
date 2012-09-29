@@ -7,7 +7,7 @@ $(call inherit-product, vendor/supernexus/configs/common.mk)
 # Inherit GSM files.
 $(call inherit-product, vendor/supernexus/configs/gsm.mk)
 # Setup device specific product configuration.
-PRODUCT_NAME := i9100
+PRODUCT_NAME := cm_i9100
 PRODUCT_BRAND := samsung
 PRODUCT_DEVICE := i9100
 PRODUCT_MODEL := GT-I9100
